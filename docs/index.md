@@ -3,20 +3,27 @@ layout: default
 title: Home
 ---
 
-# Content Created by Adam Pugh
+# Adam Jonathan Pugh's Writing Samples
 
-This page was created from the tutorial in the [mapzen/write-the-docs-tutorial repository](https://github.com/mapzen/write-the-docs-tutorial).
 
-## General workflow for making a website with GitHub Pages
+## Backlog Tracker
+#### Capturing new work and future tasks in the Backlog Tracker allows you to share information with your team, department, and greater organization.
 
-Follow these general instructions to make a website with _GitHub Pages_.
+### *Creating Requests*
 
-1. Create a new repository for your site.
-2. Create a branch to hold your changes.
-3. Add some files for your website. At a minimum, you need a file for the homepage. You can name this file index.md and use markdown formatting, or index.html and add the basic HTML page structure.
-4. Open a pull request to propose adding your changes into the master branch.
-5. Merge files into the master branch.
-6. Go to the repository settings and enable GitHub Pages on the master branch (or docs folder in it).
-7. Open browser to the page.
+>**Note:** Before creating an ECS request, identify the work to be completed for your product and specific deliverables/objectives.
 
-Get more details in the [GitHub Pages documentation](https://help.github.com/categories/github-pages-basics/).
+1. Navigate to the Backlog Tracker.
+2. Scroll to the bottom of the page and select *Add New Item*.
+3. Fill out the fields as necessary.
+4. Verify that *ECS* is selected as the Request Type.
+5. Complete Comments section and try to include:
+ * What is required and why?
+ * What is the deliverable or end result?
+ * Timeframe and release?
+ * Who else requested / Contacts?
+6. Select Save.
+
+>**Caution:** Do not fill out sections marked **Manager Only**.
+
+![this is an image](https://i.etsystatic.com/isla/b37269/37385607/isla_280x280.37385607_dh04zp8w.jpg?version=0)
