@@ -1,29 +1,28 @@
 ---
 layout: default
-title: Home
+title: Go read a book
 ---
+<img class="wt-circle wt-icon" src="https://i.etsystatic.com/iusa/196155/82725155/iusa_75x75.82725155_raus.jpg?version=0" alt="Adam outside">
 
-# Adam Jonathan Pugh's Writing Samples
+# Adam Pugh - Links to projects and work
 
+* [Vinyl Junction](https://vinyljunction.com) is my Etsy shop full of cassettes, records, and books.
+* [LinkedIn Profile](https://www.linkedin.com/in/adampugh/) is the place to take a deeper dive into my work history.
+* [Vinyl Junction Instagram](https://https://instagram.com/vinyljunction/) see what's been added to the shop.
+* [Vinyl Junction Twitter](https://twitter.com/VinylJunction) maybe this is your place.
+* [Vinyl Junction Facebook](https://facebook.com/VinylJunction) exists for everyone else.
 
-## Backlog Tracker
-#### Capturing new work and future tasks in the Backlog Tracker allows you to share information with your team, department, and greater organization.
+## Special items in my shop
 
-### *Creating Requests*
+Direct links to some very special, unusual, or rare items in my shop. 
+* [Dune Hardcover First Edition](https://www.etsy.com/listing/835722209/dune-by-frank-herbert-first-edition?ref=shop_home_feat_4&frs=1) The classic novel by Frank Herbert. The listing includes 34 photos to show all possible detail of this rare beauty.
+* [Clue Movie Tie-In Paperback Book](https://www.etsy.com/listing/942845483/clue-by-michael-mcdowell-paperback-book?show_sold_out_detail=1) The classic novel by Michael McDowell. The story is based on the shooting script and contains an additional fourth ending cut from the film, and as such, is highly-sought by fans.
+* [Scary Stories To Tell In The Dark Boxed Set](https://etsy.me/3lxL7nR) Contains all three of the classic original collections of folklore by Alvin Schwartz with Stephen Gammell's horrifying art.
 
->**Note:** Before creating an ECS request, identify the work to be completed for your product and specific deliverables/objectives.
-
-1. Navigate to the Backlog Tracker.
-2. Scroll to the bottom of the page and select *Add New Item*.
-3. Fill out the fields as necessary.
-4. Verify that *ECS* is selected as the Request Type.
-5. Complete Comments section and try to include:
- * What is required and why?
- * What is the deliverable or end result?
- * Timeframe and release?
- * Who else requested / Contacts?
-6. Select Save.
-
->**Caution:** Do not fill out sections marked **Manager Only**.
-
-![this is an image](https://i.etsystatic.com/isla/b37269/37385607/isla_280x280.37385607_dh04zp8w.jpg?version=0)
+## [Adam Pugh Writing Samples](https://docadam.github.io/docsamples/)
+#### Take a look at some of the process content I create in the course of my professional work.
+Contents:
+* [Customer Communication](https://github.com/DocAdam/docsamples/wiki/Customer-Communication)
+* [Masking Account Numbers](https://github.com/DocAdam/docsamples/wiki/Masking-Account-Numbers)
+* [Procedural Task](https://github.com/DocAdam/docsamples/wiki/Procedural-Task)
+* [Software Update](https://github.com/DocAdam/docsamples/wiki/Software-Update)
