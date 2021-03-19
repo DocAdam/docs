@@ -4,7 +4,7 @@ title: Go read a book
 ---
 <img class="wt-circle wt-icon" src="https://i.etsystatic.com/iusa/196155/82725155/iusa_75x75.82725155_raus.jpg?version=0" alt="Adam outside">
 
-# Adam Pugh - Links to projects and work
+## Web store and other work
 
 * [Vinyl Junction](https://vinyljunction.com) is my Etsy shop full of cassettes, records, and books.
 * [LinkedIn Profile](https://www.linkedin.com/in/adampugh/) is the place to take a deeper dive into my work history.
@@ -20,8 +20,8 @@ Direct links to some very special, unusual, or rare items in my shop.
 * [Scary Stories To Tell In The Dark Boxed Set](https://etsy.me/3lxL7nR) Contains all three of the classic original collections of folklore by Alvin Schwartz with Stephen Gammell's horrifying art.
 
 ## [Adam Pugh Writing Samples](https://docadam.github.io/docsamples/)
-#### Take a look at some of the process content I create in the course of my professional work.
-Contents:
+
+Take a look at some of the process content I create in the course of my professional work.
 * [Customer Communication](https://github.com/DocAdam/docsamples/wiki/Customer-Communication)
 * [Masking Account Numbers](https://github.com/DocAdam/docsamples/wiki/Masking-Account-Numbers)
 * [Procedural Task](https://github.com/DocAdam/docsamples/wiki/Procedural-Task)
